@@ -1,0 +1,2 @@
+all:
+    gcc ce.c -o ce
